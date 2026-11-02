@@ -15,8 +15,8 @@ Ambient LED lighting that follows the colours on your screen. A Python app sampl
 `Python` · `NumPy` · `ESP32` · `Arduino` · `WS2812B`
 
 ### 🧍 [Avatar Studio](https://github.com/memoriesrohit/avatar-studio)
-A 3D character creator that runs in the browser. You pick a body, face, hair and outfit (office formals or casuals), animate the character (walk, wave, thumbs up, flex, celebrate) and export it as GLB with animations, or as glTF, OBJ, STL or USDZ, for Blender, Unity or AR. Every character is built in code, with no model files.
-`JavaScript` · `Three.js` · `WebGL` · `glTF`
+Realistic, rigged 3D people in the browser. You pick a person and an outfit (office formal, smart casual or casual), recolour it, set a facial expression and play moves like walk, wave, thumbs up and celebrate. You can export them as a GLB with a Mixamo-compatible skeleton, animations and face shapes, for Blender, Unity or Unreal. The characters are built in Blender with MakeHuman (MPFB) from CC0 assets.
+`JavaScript` · `Three.js` · `Blender` · `Python` · `glTF`
 
 ### 🛒 ESP32 Automated Shopping Cart
 A smart shopping cart built on the ESP32 that automates the checkout experience.
